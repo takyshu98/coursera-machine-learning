@@ -32,7 +32,7 @@ Homebrew/homebrew-science
 🍺 brew tap brewsci/science
 💀 brew untap homebrew/science
 
-引用よりbrewsci/scienceを指定する
+引用よりbrewsci/scienceを指定する.
 
 ```
 takyshu98s-mbp{takyshu98}% brew tap homebrew/science
@@ -450,6 +450,7 @@ If you need to have texinfo first in your PATH run:
   echo 'export PATH="/usr/local/opt/texinfo/bin:$PATH"' >> ~/.zshrc
 
 ```
+`https://homebrew.bintray.com/bottles/ghostscript-9.26.mojave.bottle.tar.gz` のバイナリダウンロードは失敗したようだが、リカバリーのソースビルドが成功したようなので良しとする
 ```
 takyshu98s-mbp{takyshu98}% octave -v
 GNU Octave, version 4.4.1
