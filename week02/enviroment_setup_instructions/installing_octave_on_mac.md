@@ -32,7 +32,7 @@ Homebrew/homebrew-science
 🍺 brew tap brewsci/science
 💀 brew untap homebrew/science
 
-引用よりbrewsci/scienceを指定する.
+引用よりbrewsci/scienceを指定する
 
 ```
 takyshu98s-mbp{takyshu98}% brew tap homebrew/science
